@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EzyFoody</string>
+
+    <string name="drinks">Drinks</string>
+    <string name="snacks">Snacks</string>
+    <string name="foods">Foods </string>
+    <string name="topup">TopUp </string>
+    <string name="harga">Rp.10000</string>
+    <string name="total">Total Rp.</string>
+    <string name="qty1">0</string>
+
+    <string name="order">Order</string>
+    <string name="paynow">Pay Now</string>
+    <string name="myorder">My Order</string>
+    <string name="menuutama">Menu Utama</string>
+    <string name="ordermore">Order More</string>
+    <string name="delete">Hapus</string>
+
+    <string name="airmineral">Air Mineral</string>
+    <string name="jusmangga">Jus Mangga</string>
+    <string name="jusapel">Jus Apel</string>
+    <string name="jusalpukat">Jus Alpukat</string>
+
+    <string name="nasgor">Nasi Goreng</string>
+    <string name="baso">Bakso</string>
+    <string name="ayambakar">Ayam Bakar</string>
+    <string name="ayammentega">Ayam Saus Mentega</string>
+
+    <string name="nachos">Nachos</string>
+    <string name="garlicb">Garlic Bread</string>
+    <string name="potato">Potato Wedges</string>
+    <string name="macncheese">Mac n Cheese</string>
+    <string name="saldo">Saldo</string>
+</resources>
